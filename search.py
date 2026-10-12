@@ -37,7 +37,8 @@ def search(question, index, chunks, model, k):
 def print_results(question, results):
     print(f"\nQ: {question}\n")
     for rank, (score, c) in enumerate(results, 1):
-        print(f"{rank}. score={score:.3f}  [{c['pmcid']} / {c['section']}]")
+        heading = f" / {c['heading']}" if c.get("heading") else ""
+        print(f"{rank}. score={score:.3f}  [{c['pmcid']} / {c['section']}{heading}]")
         print(f"   {c['title']}")
         print(f"   {c['url']}")
         print(textwrap.indent(textwrap.fill(c["text"][:400] + " ...", 100), "   > "))
