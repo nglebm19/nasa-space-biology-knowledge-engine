@@ -1,0 +1,26 @@
+# 20 sample papers for the retrieval MVP (PMC IDs from raw_data/SB_publication_PMC.csv).
+# Picked to avoid links shared by several CSV rows.
+
+# Muscle / bone (8)
+PMC3630201   # Microgravity induces pelvic bone loss ...
+PMC9576569   # Muscle atrophy phenotype gene expression during spaceflight ...
+PMC10285634  # Toward countering muscle and bone loss with spaceflight: GSK3 ...
+PMC5114340   # Genetic and tissue level muscle-bone interactions during unloading ...
+PMC8493566   # Hindlimb suspension in Wistar rats: sex-based differences in muscle response
+PMC10504369  # Impacts of radiation exposure, hindlimb unloading, and recovery on murine skeletal ...
+PMC6706399   # Longitudinal time course of muscle impairments during partial weight-bearing ...
+PMC6343501   # Spaceflight effects on mouse supraspinatus (shoulder) muscle and tendon
+
+# Mixed space biology (12)
+PMC4136787   # Mice in Bion-M 1 space mission: training and selection
+PMC7998608   # Adipose-derived stem cells in microgravity culture (CSV title differs; link is this paper)
+PMC8396460   # Spaceflight modulates oxidative stress and cell cycle genes in heart
+PMC4642138   # Gravitropism and lateral root emergence depend on TNO1 (Arabidopsis)
+PMC3901686   # Toll mediated infection response altered by gravity and spaceflight in Drosophila
+PMC8099722   # Mars500 reanalysis: gut microbiome changes in long-duration isolation
+PMC6387434   # GeneLab: space radiation, cardiovascular system, FYN
+PMC9400218   # Machine learning: antimicrobial resistance in ISS surface microbiome
+PMC10789781  # Galactic cosmic radiation and DNA methylation patterns
+PMC3639165   # Spaceflight promotes biofilm formation by Pseudomonas aeruginosa
+PMC6165321   # Spaceflight and artificial gravity on the mouse retina
+PMC9699585   # Space microgravity alters neural stem cell division

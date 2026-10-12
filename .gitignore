@@ -221,3 +221,6 @@ __marimo__/
 
 # macOS
 .DS_Store
+
+# MVP generated data (rebuild with fetch_papers.py + build_index.py)
+data/

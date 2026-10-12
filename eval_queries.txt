@@ -1,0 +1,7 @@
+# Manual retrieval checks: question | PMC IDs that should appear in the top results.
+# Run with: python search.py --eval
+How does microgravity affect skeletal muscle? | PMC9576569, PMC10285634, PMC6343501, PMC5114340, PMC6706399, PMC10504369, PMC8493566
+What causes bone loss in microgravity? | PMC3630201, PMC10285634, PMC5114340
+How does spaceflight affect bacterial biofilm formation? | PMC3639165
+How do plant roots sense gravity? | PMC4642138
+Does space radiation damage the cardiovascular system? | PMC6387434, PMC8396460
